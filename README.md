@@ -7,4 +7,4 @@ I'm an aspiring software developer currently in my first-year undergrad studies.
 - **🤔 Looking for help with:** How to juggle school life with coding and other hobbies
 - **💬 Ask me about:** First year university experiences, IB
 - **📫 How to reach me:** Say hi! Reach me at eric (at) ericshuai (dot) tech
-- **⚡ Fun fact:** I have two music diplomas from the Royal Conservatory of Music: one for piano and another for violin
+- **⚡ Fun fact:** I have two music diplomas from the Royal Conservatory of Music: one for piano and another for violin!
