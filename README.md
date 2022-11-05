@@ -1,8 +1,6 @@
 ## Hey! I'm Eric. Nice to meet you! 👋
 I'm an aspiring software developer currently in my first-year undergrad studies. Feel free to shoot me a message, or stay around to explore my coding journey!
 
-Hellooooooooooooooooooooooooooooooooooooooooooooooooo!
-
 - **😄 Pronouns:** he/him/his
 - **🔭 Currently working on:** Building my personal website
 - **🌱 Currently learning:** Python, React, R, DrRacket
