@@ -3,7 +3,7 @@ I'm an aspiring software developer currently in my first-year undergrad studies.
 
 - **😄 Pronouns:** he/him/his
 - **🔭 Currently working on:** Building my personal website
-- **🌱 Currently learning:** Python, React, R, DrRacket
+- **🌱 Currently learning:** Java, Python, React
 - **🤔 Looking for help with:** How to juggle school life with coding and other hobbies
 - **💬 Ask me about:** First year university experiences, IB
 - **📫 How to reach me:** Say hi! Reach me at eric (at) ericshuai (dot) tech
