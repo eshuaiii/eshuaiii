@@ -3,8 +3,8 @@ I'm an aspiring software developer currently in my second-year computer sciece u
 
 - **😄 Pronouns:** he/him/his
 - **🔭 Currently working on:** Building my personal website
-- **🌱 Currently learning:** Java, Python, React
-- **🤔 Looking for help with:** How to juggle school life with coding and other hobbies
+- **🌱 Currently learning:** React, C++, Node.JS
+- **🤔 Looking for help with:** How to get my foot through the door into the job market
 - **💬 Ask me about:** First year university experiences, IB
 - **📫 How to reach me:** Say hi! Reach me at eric (at) ericshuai (dot) tech
 - **⚡ Fun fact:** I have two music diplomas from the Royal Conservatory of Music: one for piano and another for violin!
