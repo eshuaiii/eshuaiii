@@ -1,5 +1,5 @@
 ## Hey! I'm Eric. Nice to meet you! 👋
-I'm an aspiring software developer currently in my second-year computer sciece undergrad studies. Feel free to shoot me a message, or stay around to explore my coding journey!
+I'm an aspiring software developer currently in my third-year computer sciece undergrad studies. Feel free to shoot me a message, or stay around to explore my coding journey!
 
 - **😄 Pronouns:** he/him/his
 - **🔭 Currently working on:** Building my personal website
